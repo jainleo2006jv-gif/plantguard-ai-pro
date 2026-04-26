@@ -1,0 +1,133 @@
+{
+  "pepper bell bacterial spot": {
+    "display": "Bell Pepper Bacterial Spot",
+    "severity": "High",
+    "symptoms": "Small dark lesions with possible yellow halos and progressive leaf damage.",
+    "cause": "Bacterial infection spread by water splash, contaminated tools, or infected seedlings.",
+    "action": [
+      "Remove infected leaves immediately.",
+      "Avoid overhead irrigation.",
+      "Disinfect tools after use.",
+      "Use a copper-based bactericide if locally recommended."
+    ]
+  },
+  "pepper bell healthy": {
+    "display": "Bell Pepper Healthy",
+    "severity": "None",
+    "symptoms": "No strong visible disease pattern detected.",
+    "cause": "Healthy leaf appearance.",
+    "action": [
+      "Maintain balanced watering.",
+      "Inspect weekly for early spots.",
+      "Ensure good airflow."
+    ]
+  },
+  "potato early blight": {
+    "display": "Potato Early Blight",
+    "severity": "Medium",
+    "symptoms": "Brown lesions with concentric rings, often on older leaves.",
+    "cause": "Alternaria fungal infection, favored by warm and humid conditions.",
+    "action": [
+      "Remove infected lower leaves.",
+      "Apply preventive fungicide if needed.",
+      "Rotate crops next season.",
+      "Reduce prolonged leaf wetness."
+    ]
+  },
+  "potato late blight": {
+    "display": "Potato Late Blight",
+    "severity": "High",
+    "symptoms": "Rapid dark lesions and possible mold growth under humid conditions.",
+    "cause": "Highly aggressive blight organism in cool and wet weather.",
+    "action": [
+      "Isolate affected plants urgently.",
+      "Destroy heavily infected tissue.",
+      "Do not compost infected material.",
+      "Use blight-targeted treatment immediately."
+    ]
+  },
+  "tomato bacterial spot": {
+    "display": "Tomato Bacterial Spot",
+    "severity": "High",
+    "symptoms": "Dark leaf lesions causing spotting, yellowing, and defoliation.",
+    "cause": "Bacterial spread via water, handling, and contaminated tools.",
+    "action": [
+      "Prune infected leaves.",
+      "Avoid handling when wet.",
+      "Increase airflow and spacing.",
+      "Consider copper spray if suitable."
+    ]
+  },
+  "tomato early blight": {
+    "display": "Tomato Early Blight",
+    "severity": "Medium",
+    "symptoms": "Target-like lesions with brown rings on older leaves.",
+    "cause": "Alternaria fungal disease, common in warm humid conditions.",
+    "action": [
+      "Remove lower diseased leaves.",
+      "Mulch to reduce soil splash.",
+      "Use preventive fungicide if recurring.",
+      "Rotate crops next season."
+    ]
+  },
+  "tomato late blight": {
+    "display": "Tomato Late Blight",
+    "severity": "High",
+    "symptoms": "Fast-spreading dark lesions, stem damage, and fruit rot risk.",
+    "cause": "Severe blight organism spreading quickly in cool/wet environments.",
+    "action": [
+      "Act fast and isolate affected plants.",
+      "Destroy heavily infected tissue.",
+      "Avoid composting infected material.",
+      "Apply appropriate blight control."
+    ]
+  },
+  "tomato leaf mold": {
+    "display": "Tomato Leaf Mold",
+    "severity": "Medium",
+    "symptoms": "Yellow upper-leaf patches and olive-brown mold underneath.",
+    "cause": "Fungal growth promoted by humidity and poor ventilation.",
+    "action": [
+      "Reduce humidity.",
+      "Improve ventilation.",
+      "Prune dense foliage.",
+      "Avoid wet leaves."
+    ]
+  },
+  "tomato septoria leaf spot": {
+    "display": "Tomato Septoria Leaf Spot",
+    "severity": "Medium",
+    "symptoms": "Small circular spots with dark borders and pale centers.",
+    "cause": "Fungal spread via splash and infected debris.",
+    "action": [
+      "Remove spotted lower leaves.",
+      "Mulch soil surface.",
+      "Use preventive fungicide if needed.",
+      "Sanitize debris after harvest."
+    ]
+  },
+  "tomato target spot": {
+    "display": "Tomato Target Spot",
+    "severity": "Medium",
+    "symptoms": "Brown ringed lesions that may enlarge and merge.",
+    "cause": "Fungal disease favored by warm and humid conditions.",
+    "action": [
+      "Remove infected leaves early.",
+      "Increase spacing and airflow.",
+      "Reduce leaf wetness.",
+      "Use disease-specific fungicide if needed."
+    ]
+  },
+  "tomato tomato mosaic virus": {
+    "display": "Tomato Mosaic Virus",
+    "severity": "High",
+    "symptoms": "Mottled or mosaic leaf pattern, distortion, and stunted growth.",
+    "cause": "Viral infection spread through handling, tools, and infected plant material.",
+    "action": [
+      "Remove infected plants if confirmed.",
+      "Disinfect hands and tools.",
+      "Do not save seed from infected plants.",
+      "Control contact spread aggressively."
+    ]
+  }
+}
